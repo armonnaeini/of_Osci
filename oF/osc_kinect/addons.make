@@ -1,0 +1,9 @@
+ofxOpenCv
+ofxCv
+ofxGui
+ofxKinectForWindows2
+ofxNetwork
+ofxPoco
+ofxLaser
+ofxOsc
+ofxSpout
